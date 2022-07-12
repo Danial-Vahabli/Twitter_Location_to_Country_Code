@@ -6,7 +6,9 @@ We use 3 seperate dictionaries to map the locations:
 1)	Country_Names_dict: Original Name of the countries and their alpha 2 code.
 2)	Original_Names_dict: Original Name of Locations and their alpha 2 code. (Resource: GeoNames, https://www.geonames.org/)
 3)	Alternative_Names_exp: Alternative Name of Locations and their alpha 2 code. (Resource: GeoNames, https://www.geonames.org/)
+
 Algorithm:
+
 The algorithm first checks whether the string has any alphabetical charachter or not. If not, the functions outputs “Error”, then it splits the string using “,” and “ “ and then tries to find matches going through database from 1 to 3.  If there is no match at this stage, the algorithm checks whether the string contains the alpha 2 code or not. finally, if there is not a match yet, the algorithm checks the alphabet that the charachters belong, if they are Cyrillic, the output is Russia and if they are CJK characters the output is Japan. Finally, if the function does not find a match, it will export Error.
 
 Outputs:
