@@ -1,0 +1,831 @@
+,string,count,Code
+0,location,average_prevalence,Error
+1,日本,39.0,JP
+2,United States,33.0,US
+3,"Rio de Janeiro, Brasil",25.0,BR
+4,she/her,23.0,Error
+5,المملكة العربية السعودية,20.0,SA
+6,Brasil,19.0,BR
+7,"Los Angeles, CA",16.0,US
+8,"California, USA",15.0,US
+9,Indonesia,15.0,ID
+10,"London, England",15.0,GB
+11,ประเทศไทย,15.0,TH
+12,Argentina,14.0,AR
+13,India,14.0,IN
+14,"São Paulo, Brasil",14.0,BR
+15,Thailand,14.0,TH
+16,"Buenos Aires, Argentina",13.0,AR
+17,México,13.0,MX
+18,France,12.0,FR
+19,"Houston, TX",11.0,US
+20,London,11.0,GB
+21,Malaysia,11.0,MY
+22,"İstanbul, Türkiye",11.0,TR
+23,東京,11.0,JP
+24,"Chicago, IL",10.0,US
+25,Palo Alto,10.0,US
+26,"Texas, USA",10.0,US
+27,USA,10.0,US
+28,United Kingdom,10.0,GB
+29,Canada,9.0,CA
+30,"Florida, USA",9.0,US
+31,"Paris, France",9.0,FR
+32,"Saudi Arabia, Riyadh",9.0,SA
+33,Venezuela,9.0,VE
+34,"กรุงเทพมหานคร, ประเทศไทย",9.0,TH
+35,日本 東京,9.0,JP
+36,"Atlanta, GA",8.0,US
+37,"Bangkok, Thailand",8.0,TH
+38,"England, United Kingdom",8.0,GB
+39,"Lagos, Nigeria",8.0,NG
+40,"New York, NY",8.0,US
+41,"New York, USA",8.0,US
+42,Republic of the Philippines,8.0,PH
+43,📍 France 🇫🇷,8.0,FR
+44,España,7.0,ES
+45,Türkiye,7.0,TR
+46,bitly.com/TwiBuildd,7.0,Error
+47,she/her ,7.0,Error
+48,大阪,7.0,JP
+49,東京都,7.0,JP
+50,대한민국,7.0,KR
+51,Colombia,6.0,CO
+52,"Dallas, TX",6.0,US
+53,Japan,6.0,JP
+54,Nigeria,6.0,NG
+55,Philippines,6.0,PH
+56,Silicon Valley,6.0,US
+57,UK,6.0,GB
+58,"Washington, DC",6.0,US
+59,온라인카지노,6.0,Error
+60,"
+            
+        ",5.0,Error
+61, 📍JP 🇯🇵 ,5.0,JP
+62, 📍Japan 🇯🇵 ,5.0,JP
+63,Australia,5.0,AU
+64,"Belo Horizonte, Brasil",5.0,BR
+65,"Bogotá, D.C., Colombia",5.0,CO
+66,"Brasília, Brasil",5.0,BR
+67,Chile,5.0,CL
+68,"Córdoba, Argentina",5.0,AR
+69,Earth,5.0,Error
+70,Istanbul,5.0,TR
+71,Madrid,5.0,PH
+72,Meereen,5.0,Error
+73,"Miami, FL",5.0,US
+74,"New Delhi, India",5.0,IN
+75,New York,5.0,US
+76,Paris,5.0,FR
+77,Rio de Janeiro,5.0,BR
+78,Singapore,5.0,SG
+79,South Africa,5.0,ZA
+80,"Toronto, Ontario",5.0,CA
+81,he/him,5.0,Error
+82,الرياض,5.0,SA
+83,"الرياض, المملكة العربية السعودية",5.0,SA
+84,"جدة, المملكة العربية السعودية",5.0,SA
+85,바카라,5.0,Error
+86,섹스파트너,5.0,Error
+87,🇯🇵JP🇯🇵,5.0,JP
+88,📍 Canada 🇨🇦,5.0,CA
+89,📍 Saudi Arabia 🇸🇦,5.0,SA
+90, ,4.0,Error
+91, 📍 JP 🇯🇵 ,4.0,JP
+92, 📍 Japan 🇯🇵 ,4.0,JP
+93,"Austin, TX",4.0,US
+94,"Boston, MA",4.0,US
+95,Brazil,4.0,BR
+96,"Brooklyn, NY",4.0,US
+97,"Cairo, Egypt",4.0,EG
+98,California,4.0,US
+99,"Georgia, USA",4.0,US
+100,"Johannesburg, South Africa",4.0,ZA
+101,Kingdom of Saudi Arabia,4.0,SA
+102,Kuwait,4.0,KW
+103,"Las Vegas, NV",4.0,US
+104,Mexico,4.0,MX
+105,"Michigan, USA",4.0,US
+106,"Monterrey, Nuevo León",4.0,MX
+107,"Mumbai, India",4.0,IN
+108,Myanmar,4.0,MM
+109,"Nairobi, Kenya",4.0,KE
+110,"New Jersey, USA",4.0,US
+111,"North Carolina, USA",4.0,US
+112,"Ohio, USA",4.0,US
+113,"Pennsylvania, USA",4.0,US
+114,"Philadelphia, PA",4.0,US
+115,Portugal,4.0,PT
+116,Riyadh,4.0,SA
+117,"San Antonio, TX",4.0,US
+118,"San Diego, CA",4.0,US
+119,"San Francisco, CA",4.0,US
+120,"Seattle, WA",4.0,US
+121,"Seoul, Republic of Korea",4.0,KR
+122,She/her,4.0,Error
+123,Texas,4.0,US
+124,Tokyo,4.0,JP
+125,she/they,4.0,Error
+126,Россия,4.0,RU
+127,北海道,4.0,JP
+128,関西,4.0,JP
+129,대한민국 서울,4.0,KR
+130,바둑이,4.0,Error
+131,인터넷카지노,4.0,Error
+132,카지노,4.0,Error
+133,카지노사이트,4.0,Error
+134,카지노사이트주소,4.0,Error
+135,🇵🇭,4.0,PH
+136,📍 Spain 🇪🇸,4.0,ES
+137,"
+",3.0,Error
+138,021,3.0,Error
+139,"Abuja, Nigeria",3.0,NG
+140,"Accra, Ghana",3.0,GH
+141,"Ankara, Türkiye",3.0,TR
+142,"Arizona, USA",3.0,US
+143,Azerbaijan,3.0,AZ
+144,"Baltimore, MD",3.0,US
+145,Barcelona,3.0,ES
+146,"Bogotá, Colombia",3.0,CO
+147,Buenos Aires,3.0,AR
+148,"Caracas, Venezuela",3.0,VE
+149,Chicago,3.0,US
+150,Ciudad Autónoma de Buenos Aire,3.0,AR
+151,"Curitiba, Brasil",3.0,BR
+152,"DKI Jakarta, Indonesia",3.0,ID
+153,Deutschland,3.0,DE
+154,"Dubai, United Arab Emirates",3.0,AE
+155,Ecuador,3.0,EC
+156,Egypt,3.0,EG
+157,England,3.0,GB
+158,"Federal Capital Territory, Nig",3.0,NG
+159,Florida,3.0,US
+160,Germany,3.0,DE
+161,Guatemala,3.0,GT
+162,Hogwarts,3.0,Error
+163,"Hyderabad, India",3.0,IN
+164,"Ibadan, Nigeria",3.0,NG
+165,"Ile-de-France, France",3.0,FR
+166,"Illinois, USA",3.0,US
+167,Iraq,3.0,IQ
+168,Ireland,3.0,IE
+169,Italia,3.0,IT
+170,KSA,3.0,Error
+171,"Lahore, Pakistan",3.0,PK
+172,"Lima, Peru",3.0,PE
+173,Los Angeles,3.0,US
+174,"Madrid, Comunidad de Madrid",3.0,ES
+175,"Manchester, England",3.0,GB
+176,"Maryland, USA",3.0,US
+177,"Massachusetts, USA",3.0,US
+178,Metaverse,3.0,Error
+179,"Minas Gerais, Brasil",3.0,BR
+180,"Montevideo, Uruguay",3.0,UY
+181,NYC,3.0,US
+182,"New Orleans, LA",3.0,US
+183,"Ontario, Canada",3.0,CA
+184,"Orlando, FL",3.0,US
+185,Pakistan,3.0,PK
+186,Panama,3.0,PA
+187,"Paris, Ile-de-France",3.0,FR
+188,"Phoenix, AZ",3.0,US
+189,"Port Harcourt, Nigeria",3.0,NG
+190,"Porto Alegre, Brasil",3.0,BR
+191,"Porto, Portugal",3.0,PT
+192,Puerto Rico,3.0,PR
+193,"Recife, Brasil",3.0,BR
+194,"Rio Grande do Sul, Brasil",3.0,BR
+195,"Riyadh, Kingdom of Saudi Arabia",3.0,SA
+196,"Rosario, Argentina",3.0,AR
+197,"Santiago, Chile",3.0,CL
+198,Saudi Arabia,3.0,SA
+199,São Paulo,3.0,BR
+200,Toronto,3.0,CA
+201,United Arab Emirates,3.0,AE
+202,Uruguay,3.0,UY
+203,"Virginia, USA",3.0,US
+204,Worldwide,3.0,Error
+205,"Yogyakarta, Indonesia",3.0,ID
+206,ela/dela,3.0,Error
+207,they/them,3.0,Error
+208,İstanbul,3.0,TR
+209,"İzmir, Türkiye",3.0,TR
+210,Москва,3.0,RU
+211,Санкт-Петербург,3.0,RU
+212,"الرياض, المملكة العربية السعود",3.0,SA
+213,السعودية,3.0,SA
+214,المدينة المنورة,3.0,SA
+215,دولة الكويت,3.0,KW
+216,愛知県,3.0,JP
+217,日本 大阪,3.0,JP
+218,神奈川,3.0,JP
+219,神奈川県,3.0,JP
+220,関東,3.0,JP
+221,섹파,3.0,Error
+222,스포츠토토,3.0,Error
+223,안전한놀이터,3.0,Error
+224,토토,3.0,Error
+225,홍콩명품,3.0,Error
+226,🇯🇵,3.0,JP
+227,📍 Deutschland 🇩🇪,3.0,DE
+228,📍 España 🇪🇸,3.0,ES
+229,📍 Germany 🇩🇪,3.0,DE
+230,📍 JP 🇯🇵,3.0,JP
+231,📍 Japan 🇯🇵,3.0,JP
+232,📍 UK 🇬🇧,3.0,GB
+233,📍 US 🇺🇸,3.0,US
+234,📍 USA 🇺🇸,3.0,US
+235,📍 United Kingdom 🇬🇧,3.0,GB
+236,  ,2.0,Error
+237,+62,2.0,Error
+238,.,2.0,Error
+239,027,2.0,Error
+240,Abuja,2.0,NG
+241,"Adana, Türkiye",2.0,TR
+242,Afghanistan,2.0,AF
+243,"Alabama, USA",2.0,US
+244,"Alexandria, Egypt",2.0,EG
+245,Algeria,2.0,DZ
+246,Algérie,2.0,DZ
+247,Amsterdam,2.0,NL
+248,"Andhra Pradesh, India",2.0,IN
+249,Ankara,2.0,TR
+250,"Ankara,Türkiye",2.0,TR
+251,"Antalya, Türkiye",2.0,TR
+252,"Antalya,Türkiye",2.0,TR
+253,Argentina ,2.0,AR
+254,Arizona,2.0,US
+255,Armenia,2.0,AM
+256,"Asuncion, Paraguay",2.0,PY
+257,Atlanta,2.0,US
+258,BKK,2.0,Error
+259,BLM,2.0,Error
+260,BTS,2.0,Error
+261,"Bahia, Brasil",2.0,BR
+262,Bahrain,2.0,BH
+263,Bandung,2.0,TH
+264,"Bandung, Indonesia",2.0,ID
+265,"Bandung, Jawa Barat",2.0,ID
+266,Bangalore,2.0,IN
+267,Bangkok,2.0,TH
+268,"Bangkok,Thailand",2.0,TH
+269,"Barcelona, Catalunya",2.0,ES
+270,"Barcelona, Cataluña",2.0,ES
+271,"Barcelona, España",2.0,ES
+272,"Barcelona, Spain",2.0,ES
+273,"Barranquilla, Colombia",2.0,CO
+274,"Baton Rouge, LA",2.0,US
+275,Beacon Hills,2.0,Error
+276,Belgique,2.0,BE
+277,Belgium,2.0,BE
+278,Belo Horizonte,2.0,BR
+279,"Belo Horizonte, Minas Gerais",2.0,BR
+280,"Belém, Brasil",2.0,BR
+281,"Bengaluru, India",2.0,IN
+282,"Benin-City, Nigeria",2.0,NG
+283,Berlin,2.0,DE
+284,"Berlin, Deutschland",2.0,DE
+285,"Bihar, India",2.0,IN
+286,Birmingham,2.0,GB
+287,"Birmingham, AL",2.0,FR
+288,"Birmingham, England",2.0,GB
+289,"Bodrum,Türkiye",2.0,TR
+290,Bogota,2.0,CO
+291,Bogotá,2.0,CO
+292,Bolivia,2.0,BO
+293,"Bordeaux, France",2.0,FR
+294,Boston,2.0,US
+295,"Braga, Portugal",2.0,PT
+296,Brasil ,2.0,BR
+297,Brasília,2.0,BR
+298,"Brasília, Distrito Federal",2.0,VE
+299,"Bristol, England",2.0,GB
+300,"Bronx, NY",2.0,US
+301,"Bruxelles, Belgique",2.0,BE
+302,BsonNull,2.0,Error
+303,"Bucaramanga, Colombia",2.0,CO
+304,"Buffalo, NY",2.0,US
+305,Bursa,2.0,TR
+306,"Bursa, Türkiye",2.0,TR
+307,CA,2.0,US
+308,CDMX,2.0,MX
+309,"Cali, Colombia",2.0,CO
+310,"Campinas, Brasil",2.0,BR
+311,"Campo Grande, Brasil",2.0,BR
+312,Cape Town,2.0,ZA
+313,"Cape Town, South Africa",2.0,ZA
+314,"Capital - Córdoba, Argentina",2.0,AR
+315,Caracas,2.0,VE
+316,Caracas - Venezuela,2.0,VE
+317,"Caracas, Distrito Capital",2.0,VE
+318,Caracas-Venezuela,2.0,VE
+319,Catalunya,2.0,ES
+320,"Cebu City, Central Visayas",2.0,PH
+321,"Charlotte, NC",2.0,US
+322,Chennai,2.0,IN
+323,"Chennai, India",2.0,IN
+324,"Chiang Mai, Thailand",2.0,TH
+325,"Cincinnati, OH",2.0,US
+326,Ciudad de México,2.0,MX
+327,"Cleveland, OH",2.0,US
+328,Colorado,2.0,US
+329,"Colorado, USA",2.0,US
+330,"Columbus, OH",2.0,US
+331,"Comunidad de Madrid, España",2.0,ES
+332,"Concepción, Chile",2.0,CL
+333,"Connecticut, USA",2.0,US
+334,"Corrientes, Argentina",2.0,AR
+335,Costa Rica,2.0,CR
+336,Coventry,2.0,GB
+337,"Cuauhtémoc, Distrito Federal",2.0,MX
+338,Cuba,2.0,CU
+339,"Cuiabá, Brasil",2.0,BR
+340,Curitiba,2.0,BR
+341,"Curitiba, Paraná",2.0,BR
+342,"Davao City, Davao Region",2.0,PH
+343,"Denver, CO",2.0,US
+344,"Detroit, MI",2.0,US
+345,"Dhaka, Bangladesh",2.0,BD
+346,"Distrito Federal, México",2.0,MX
+347,"Doha, Qatar",2.0,QA
+348,Dominican Republic,2.0,DO
+349,Dubai,2.0,AE
+350,Dublin,2.0,IE
+351,"Dublin City, Ireland",2.0,IE
+352,"Dublin, Ireland",2.0,IE
+353,"Duque de Caxias, Brasil",2.0,BR
+354,"Durban, South Africa",2.0,ZA
+355,EXO PLANET,2.0,Error
+356,Edinburgh,2.0,GB
+357,"Edinburgh, Scotland",2.0,GB
+358,"Edmonton, Alberta",2.0,CA
+359,"El Paso, TX",2.0,US
+360,El Salvador,2.0,SV
+361,"Entre Ríos, Argentina",2.0,AR
+362,"Enugu, Nigeria",2.0,NG
+363,Eski Kosova,2.0,Error
+364,"Espírito Santo, Brasil",2.0,BR
+365,Essex,2.0,GB
+366,Estados Unidos,2.0,US
+367,Europe,2.0,Error
+368,Everywhere,2.0,Error
+369,Finland,2.0,FI
+370,"Florianópolis, Brasil",2.0,BR
+371,"Fort Worth, TX",2.0,US
+372,"Fortaleza, Brasil",2.0,BR
+373,"Gangnam-gu, Republic of Korea",2.0,KR
+374,Georgia,2.0,US
+375,Ghana,2.0,GH
+376,Girls can do anything,2.0,Error
+377,Glasgow,2.0,GB
+378,"Glasgow, Scotland",2.0,GB
+379,Global,2.0,Error
+380,"Goiânia, Brasil",2.0,BR
+381,Greece,2.0,GR
+382,"Guadalajara, Jalisco",2.0,MX
+383,Guayaquil,2.0,EC
+384,"Guayaquil, Ecuador",2.0,EC
+385,"Gujarat, India",2.0,IN
+386,"Guntur, India",2.0,IN
+387,HTX,2.0,Error
+388,Haiti,2.0,HT
+389,"Harare, Zimbabwe",2.0,ZW
+390,Hashemite Kingdom of Jordan,2.0,JO
+391,He/Him,2.0,Error
+392,Hell,2.0,Error
+393,"Hermosillo, Sonora",2.0,MX
+394,Honduras,2.0,HN
+395,Honeymoon ãve.,2.0,Error
+396,Hong Kong,2.0,HK
+397,Hope World,2.0,Error
+398,Houston,2.0,US
+399,"Hà Nội, Việt Nam",2.0,VN
+400,"Hồ Chí Minh, Việt Nam",2.0,VN
+401,INDONESIA,2.0,ID
+402,Indiana,2.0,US
+403,"Indiana, USA",2.0,US
+404,"Indianapolis, IN",2.0,US
+405,Iran,2.0,IR
+406,"Islamabad, Pakistan",2.0,PK
+407,Islamic Republic of Iran,2.0,IR
+408,Israel,2.0,IL
+409,"Istanbul, Turkey",2.0,TR
+410,Italy,2.0,IT
+411,JAPAN,2.0,JP
+412,"Jaipur, India",2.0,IN
+413,Jakarta,2.0,ID
+414,Jakarta Capital Region,2.0,ID
+415,"Jakarta Selatan, DKI Jakarta",2.0,ID
+416,"Jakarta, Indonesia",2.0,ID
+417,Jamaica,2.0,JM
+418,Jeddah,2.0,SA
+419,"Jeddah, Kingdom of Saudi Arabia",2.0,SA
+420,Johannesburg,2.0,ZA
+421,"Johor Bahru, Johor",2.0,MY
+422,"Johore, Malaysia",2.0,MY
+423,"Joinville, Brasil",2.0,BR
+424,"Jos, Nigeria",2.0,NG
+425,"Kaduna, Nigeria",2.0,NG
+426,"Kampala, Uganda",2.0,UG
+427,"Kansas City, MO",2.0,US
+428,"Karachi, Pakistan",2.0,PK
+429,"Kayseri,Türkiye",2.0,TR
+430,Kazakhstan,2.0,KZ
+431,"Kedah, Malaysia",2.0,MY
+432,"Kentucky, USA",2.0,US
+433,Kenya,2.0,KE
+434,"Kerala, India",2.0,IN
+435,"Knoxville, TN",2.0,US
+436,"Kolkata, India",2.0,IN
+437,Konoha,2.0,Error
+438,Kosovo,2.0,XK
+439,"Kota Surabaya, Jawa Timur",2.0,ID
+440,Kuala Lumpur,2.0,MY
+441,LA,2.0,US
+442,La Plata,2.0,AR
+443,"La Plata, Argentina",2.0,AR
+444,Lagos,2.0,NG
+445,Lagos ,2.0,NG
+446,Lagos Nigeria,2.0,NG
+447,"Lagos,Nigeria",2.0,NG
+448,Las Vegas,2.0,US
+449,Lebanon,2.0,LB
+450,"Leeds, England",2.0,GB
+451,Libya,2.0,LY
+452,Lille,2.0,FR
+453,"Lille, France",2.0,FR
+454,Lima,2.0,PE
+455,Lima - Perú,2.0,PE
+456,"Lima, Perú",2.0,PE
+457,"Lisboa, Portugal",2.0,PT
+458,Liverpool,2.0,GB
+459,"Liverpool, England",2.0,GB
+460,London ,2.0,GB
+461,"London, UK",2.0,GB
+462,"Long Beach, CA",2.0,US
+463,"Louisiana, USA",2.0,US
+464,"Louisville, KY",2.0,US
+465,"Lucknow, India",2.0,IN
+466,Lyon,2.0,US
+467,"Lyon, France",2.0,FR
+468,MNL,2.0,Error
+469,MY,2.0,MY
+470,"Maceió, Brasil",2.0,BR
+471,"Madrid, España",2.0,ES
+472,Magic Shop,2.0,Error
+473,Makati City,2.0,PH
+474,"Malang, Jawa Timur",2.0,ID
+475,Maldives,2.0,MV
+476,"Manaus, Amazonas",2.0,BR
+477,"Manaus, Brasil",2.0,BR
+478,Manchester,2.0,GB
+479,"Manhattan, NY",2.0,US
+480,Manila,2.0,PH
+481,Manila City,2.0,PH
+482,"Manila, Philippines",2.0,PH
+483,Mansoura,2.0,MA
+484,"Mar del Plata, Argentina",2.0,AR
+485,"Maracaibo, Venezuela",2.0,VE
+486,Mars,2.0,Error
+487,"Marseille, France",2.0,FR
+488,Maryland,2.0,US
+489,"Medellín, Colombia",2.0,CO
+490,Melbourne,2.0,AU
+491,"Melbourne, Australia",2.0,AU
+492,"Melbourne, Victoria",2.0,AU
+493,"Memphis, TN",2.0,US
+494,"Mendoza, Argentina",2.0,AR
+495,Mexico City,2.0,MX
+496,"Mexico City, Mexico",2.0,MX
+497,Miami,2.0,US
+498,Michigan,2.0,US
+499,"Milwaukee, WI",2.0,US
+500,"Minneapolis, MN",2.0,US
+501,Minnesota,2.0,US
+502,"Minnesota, USA",2.0,US
+503,"Misiones, Argentina",2.0,AR
+504,"Mississippi Mills, Ontario",2.0,US
+505,"Missouri, USA",2.0,US
+506,Monterrey,2.0,CO
+507,"Montréal, Québec",2.0,CA
+508,Moscow,2.0,RU
+509,"Moscow, Russia",2.0,RU
+510,Mumbai,2.0,IN
+511,"Mumbai, Maharashtra",2.0,IN
+512,"Málaga, España",2.0,ES
+513,México ,2.0,MX
+514,"México, D.F.",2.0,VE
+515,NC,2.0,US
+516,NJ,2.0,US
+517,NY,2.0,US
+518,Nairobi,2.0,KE
+519,Narnia,2.0,Error
+520,"Nashville, TN",2.0,US
+521,"Natal, Brasil",2.0,BR
+522,National Capital Region,2.0,PH
+523,"National Capital Region, Repub",2.0,PH
+524,Nederland,2.0,NL
+525,Nepal,2.0,NP
+526,Netherlands,2.0,NL
+527,"Neuquén, Argentina",2.0,AR
+528,Neverland,2.0,Error
+529,New Delhi,2.0,IN
+530,"New Delhi, Delhi",2.0,IN
+531,New Jersey,2.0,US
+532,New York City,2.0,US
+533,New Zealand,2.0,NZ
+534,Newcastle,2.0,GB
+535,Nicaragua,2.0,NI
+536,Nigeria ,2.0,NG
+537,"Niterói, Brasil",2.0,BR
+538,North Carolina,2.0,US
+539,"North West, England",2.0,GB
+540,"Nova Iguaçu, Brasil",2.0,BR
+541,"Nuevo León, México",2.0,MX
+542,"Oakland, CA",2.0,US
+543,Ohio,2.0,US
+544,"Oklahoma, USA",2.0,US
+545,One Direction,2.0,Error
+546,"Oregon, USA",2.0,US
+547,Osaka,2.0,JP
+548,"Ottawa, Ontario",2.0,US
+549,PH,2.0,PH
+550,Panamá,2.0,PA
+551,Paraguay,2.0,PY
+552,"Paraná, Brasil",2.0,BR
+553,Paris ,2.0,FR
+554,Pasig City,2.0,PH
+555,"Patna, India",2.0,IN
+556,"Pernambuco, Brasil",2.0,BR
+557,Peru,2.0,PE
+558,Perú,2.0,PE
+559,Philadelphia,2.0,US
+560,"Pittsburgh, PA",2.0,US
+561,Planet Earth,2.0,Error
+562,Poland,2.0,PL
+563,Polska,2.0,PL
+564,"Portland, OR",2.0,US
+565,Porto Alegre,2.0,BR
+566,"Pretoria, South Africa",2.0,ZA
+567,Princess Park,2.0,Error
+568,"Puebla, México",2.0,MX
+569,"Puerto Rico, USA",2.0,US
+570,"Pune, India",2.0,IN
+571,"Punjab, India",2.0,IN
+572,"Punjab, Pakistan",2.0,PK
+573,Qatar,2.0,QA
+574,"Queens, NY",2.0,US
+575,Quezon City,2.0,PH
+576,Quito,2.0,EC
+577,"Quito, Ecuador",2.0,EC
+578,RJ,2.0,IN
+579,"Rajasthan, India",2.0,IN
+580,"Raleigh, NC",2.0,US
+581,Recife,2.0,BR
+582,"Recife, Pernambuco",2.0,BR
+583,Republic of Korea,2.0,KR
+584,"Richmond, VA",2.0,US
+585,Rio Grande do Sul,2.0,BR
+586,Rio de Janeiro ,2.0,BR
+587,"Rio de Janeiro, Brazil",2.0,BR
+588,Roma,2.0,IT
+589,"Roma, Lazio",2.0,IT
+590,Rosario,2.0,AR
+591,Russia,2.0,RU
+592,SP,2.0,Error
+593,"Sacramento, CA",2.0,US
+594,"Salvador, Brasil",2.0,BR
+595,San Diego,2.0,US
+596,San Francisco,2.0,US
+597,"San Jose, CA",2.0,US
+598,"San Juan, Argentina",2.0,AR
+599,"San Salvador, El Salvador",2.0,SV
+600,"Santa Catarina, Brasil",2.0,BR
+601,Santa Clara,2.0,US
+602,"Santa Fe, Argentina",2.0,AR
+603,Santiago,2.0,CL
+604,Santiago de Chile,2.0,CL
+605,"Sao Paulo, Brazil",2.0,BR
+606,Scotland,2.0,GB
+607,"Scotland, United Kingdom",2.0,GB
+608,Seattle,2.0,US
+609,"Selangor, Malaysia",2.0,MY
+610,Senegal,2.0,SN
+611,Seoul,2.0,KR
+612,Sevilla,2.0,ES
+613,"Sevilla, España",2.0,ES
+614,She/Her,2.0,Error
+615,Somewhere,2.0,Error
+616,"South Carolina, USA",2.0,US
+617,"South East, England",2.0,GB
+618,Spain,2.0,ES
+619,Sri Lanka,2.0,LK
+620,"St Louis, MO",2.0,US
+621,"Strasbourg, France",2.0,FR
+622,Sudan,2.0,YE
+623,Sweden,2.0,SE
+624,Sydney,2.0,AU
+625,"Sydney, Australia",2.0,AU
+626,"Sydney, New South Wales",2.0,AU
+627,"São Gonçalo, Brasil",2.0,BR
+628,"São Luís, Brasil",2.0,BR
+629,TOKYO,2.0,JP
+630,TX,2.0,US
+631,Taiwan,2.0,TW
+632,"Tamil Nadu, India",2.0,IN
+633,"Tampa, FL",2.0,US
+634,Tehran,2.0,IR
+635,"Tekel, Italy",2.0,IT
+636,"Tennessee, USA",2.0,US
+637,The Netherlands,2.0,NL
+638,"Tokyo, Japan",2.0,JP
+639,"Tokyo-to, Japan",2.0,JP
+640,"Toronto, Canada",2.0,CA
+641,"Toulouse, France",2.0,FR
+642,Trinidad and Tobago,2.0,TT
+643,"Tucson, AZ",2.0,US
+644,"Tucumán, Argentina",2.0,AR
+645,Turkey,2.0,TR
+646,UAE,2.0,FR
+647,US,2.0,US
+648,"Uberlândia, Brasil",2.0,BR
+649,Ukraine,2.0,UA
+650,"Uttar Pradesh, India",2.0,IN
+651,VENEZUELA,2.0,VE
+652,Valencia,2.0,US
+653,"Valencia, España",2.0,ES
+654,"Vancouver, British Columbia",2.0,CA
+655,Venezuela ,2.0,VE
+656,Venezuela.,2.0,VE
+657,"Vijayawada, India",2.0,IN
+658,"Vila Velha, Brasil",2.0,BR
+659,Virginia,2.0,US
+660,"Vitória, Brasil",2.0,BR
+661,Việt Nam,2.0,VN
+662,Wakanda,2.0,Error
+663,"Wales, United Kingdom",2.0,GB
+664,"Warszawa, Polska",2.0,PL
+665,Washington DC,2.0,US
+666,"Washington, D.C.",2.0,US
+667,"Washington, USA",2.0,US
+668,Winterfell,2.0,Error
+669,"Wisconsin, USA",2.0,US
+670,Wonderland,2.0,Error
+671,Yemen,2.0,YE
+672,Yogyakarta,2.0,ID
+673,any pronouns,2.0,Error
+674,arg,2.0,Error
+675,argentina,2.0,AR
+676,badlands,2.0,Error
+677,brasil,2.0,BR
+678,california,2.0,US
+679,chile,2.0,CL
+680,colombia,2.0,CO
+681,coxa do harry,2.0,Error
+682,england,2.0,GB
+683,exo planet,2.0,Error
+684,fan account,2.0,Error
+685,france,2.0,FR
+686,he/they,2.0,Error
+687,hell,2.0,Error
+688,india,2.0,IN
+689,indonesia,2.0,ID
+690,istanbul,2.0,TR
+691,izmir,2.0,TR
+692,jakarta,2.0,ID
+693,japan,2.0,JP
+694,jeddah,2.0,SA
+695,kuwait,2.0,KW
+696,kwangya,2.0,Error
+697,lagos,2.0,NG
+698,london,2.0,GB
+699,magic shop,2.0,Error
+700,malaysia,2.0,MY
+701,mexico,2.0,MX
+702,na coxa do harry,2.0,Error
+703,na merda,2.0,Error
+704,na sua,2.0,Error
+705,one direction,2.0,Error
+706,paris,2.0,FR
+707,ph,2.0,PH
+708,philippines,2.0,PH
+709,princess park,2.0,Error
+710,rj,2.0,Error
+711,s!her,2.0,Error
+712,s/h,2.0,Error
+713,she / her,2.0,Error
+714,she her,2.0,Error
+715,stay st.,2.0,Error
+716,stayville,2.0,Error
+717,thailand,2.0,TH
+718,tokyo,2.0,JP
+719,united states,2.0,US
+720,venezuela,2.0,VE
+721,|-/,2.0,Error
+722,"İstanbul,Türkiye",2.0,TR
+723,İzmir,2.0,TR
+724,"İzmir,Türkiye",2.0,TR
+725,ǝʌɐ uooɯʎǝuoɥ,2.0,Error
+726,Беларусь,2.0,BY
+727,Екатеринбург,2.0,RU
+728,Казань,2.0,RU
+729,Краснодар,2.0,RU
+730,Красноярск,2.0,RU
+731,"Москва, Россия",2.0,RU
+732,Нижний Новгород,2.0,RU
+733,Новосибирск,2.0,RU
+734,Ростов-на-Дону,2.0,RU
+735,Самара,2.0,RU
+736,"Санкт-Петербург, Россия",2.0,RU
+737,Украина,2.0,UA
+738,Україна,2.0,UA
+739,Уфа,2.0,RU
+740,Челябинск,2.0,RU
+741,ישראל,2.0,IL
+742,ابو ظبي,2.0,AE
+743,الامارات,2.0,AE
+744,الامارات العربية المتحدة,2.0,AE
+745,الدمام,2.0,SA
+746,"الرياض
+",2.0,SA
+747,الرياض ,2.0,SA
+748,"السعودية
+",2.0,SA
+749,"القاهرة, مصر",2.0,EG
+750,"القطيف
+",2.0,SA
+751,الكويت,2.0,KW
+752,"الكويت
+",2.0,KW
+753,"المدينة
+",2.0,SA
+754,المملكة السعودية,2.0,SA
+755,جدة,2.0,SA
+756,"جدة
+",2.0,SA
+757,"جدة, مكة المكرمة",2.0,SA
+758,جمهوری اسلامی ایران,2.0,IR
+759,"حائل, المملكة العربية السعودية",2.0,SA
+760,"حولي
+",2.0,KW
+761,دبي,2.0,AE
+762,"دبي
+",2.0,AE
+763,دولة قطر,2.0,QA
+764,سلطنة عمان,2.0,OM
+765,مصر,2.0,EG
+766,"مصر
+",2.0,EG
+767,"مكة
+",2.0,SA
+768,مكة المكرمة,2.0,SA
+769,"مكة المكرمة, المملكة العربية السعودية",2.0,SA
+770,"نجران
+",2.0,SA
+771,भारत,2.0,IN
+772,♡,2.0,Error
+773,カルデア,2.0,Error
+774,中华人民共和国,2.0,CN
+775,京都,2.0,JP
+776,兵庫県,2.0,JP
+777,千葉,2.0,JP
+778,千葉県,2.0,JP
+779,台灣,2.0,TW
+780,名古屋,2.0,JP
+781,地球,2.0,Error
+782,埼玉,2.0,JP
+783,埼玉県,2.0,JP
+784,大阪府,2.0,JP
+785,布団の中,2.0,Error
+786,広島,2.0,JP
+787,愛知,2.0,JP
+788,新潟,2.0,JP
+789,日本 ,2.0,JP
+790,日本 北海道,2.0,JP
+791,日本 千葉,2.0,JP
+792,日本 埼玉,2.0,JP
+793,日本 愛知,2.0,JP
+794,日本 東京都,2.0,JP
+795,日本 福岡,2.0,JP
+796,本丸,2.0,JP
+797,札幌,2.0,JP
+798,横浜,2.0,JP
+799,熊本,2.0,JP
+800,福岡,2.0,JP
+801,福岡県,2.0,JP
+802,香港,2.0,HK
+803,김종환,2.0,Error
+804,대한민국 부산,2.0,KR
+805,방탄소년단,2.0,Error
+806,사설토토,2.0,Error
+807,서울,2.0,KR
+808,섹파프로필확인,2.0,Error
+809,엑소플래닛,2.0,Error
+810,조건만남,2.0,Error
+811,토토사설,2.0,MY
+812,🇲🇾,2.0,Error
+813,🏳️‍🌈,2.0,Error
+814,📍 Australia 🇦🇺,2.0,AU
+815,🔶,2.0,Error
